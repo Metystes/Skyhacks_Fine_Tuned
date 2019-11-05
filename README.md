@@ -1,13 +1,15 @@
 Image Recognition SkyHacks 2
 ====================
 
+The delivered data was photos of the rooms and houses. Based on it we needed to:
 
-There was 3 task:
+1. Predict what object are on the picture(tap, chair, table...)
+2. Predict what type the room is
+3. Predict the standard of the room
 
 **Start Date:** 25-09-2019
 
 **Release Date:** 27-09-2019
-
 
 Description
 -----
